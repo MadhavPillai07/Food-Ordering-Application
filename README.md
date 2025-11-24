@@ -16,22 +16,22 @@ The system simulates the workflow of a real-world food ordering interface with a
 
    **Functional Features:**
 
-1. Menu Display:
+- Menu Display:
    Shows available food items with their prices.
 
 
-2. Add to Cart:
+- Add to Cart:
    Users can select an item from the list and add it to the cart.
 
 
-3. Cart Management:
+- Cart Management:
    Displays selected items,
    Shows quantity,
    Updates total amount automatically.
 
 
 
-4. Place Order
+- Place Order
    Confirms and completes the order using message boxes.
 
 
@@ -52,7 +52,7 @@ The system simulates the workflow of a real-world food ordering interface with a
 
 ## Folder Structure
 
-<pre>
+**<pre>
 FoodOrderingApp/
 │
 ├── src/
@@ -60,7 +60,7 @@ FoodOrderingApp/
 │
 ├── README.md
 └── statement.md
-</pre>
+</pre>**
 
 
 
