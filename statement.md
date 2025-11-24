@@ -1,4 +1,4 @@
-Food Ordering Desktop Application (Tkinter-Based)
+**Food Ordering Desktop Application (Tkinter-Based)**
 
 
 Problem Statement:
