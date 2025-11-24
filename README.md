@@ -39,13 +39,13 @@ The system simulates the workflow of a real-world food ordering interface with a
 
 ## Technologies / Tools Used
 
-Python 3
+Python 3.
 
-Tkinter (Python GUI Toolkit)
+Tkinter (Python GUI Toolkit).
 
-Messagebox module for pop-ups and alerts
+Messagebox module for pop-ups and alerts.
 
-Dictionary-based data storage for menu and cart
+Dictionary-based data storage for menu and cart.
 
 
 
@@ -96,25 +96,25 @@ FoodOrderingApp/
 
 2. Select a menu item and click ‘Add to Cart’
 
-   A message box should confirm the addition
+   A message box should confirm the addition.
 
-   The cart should update with the selected item and quantity
+   The cart should update with the selected item and quantity.
 
 
 3. Add multiple items
 
-   Quantities should increase
+   Quantities should increase.
 
-   Total cost should update correctly
+   Total cost should update correctly.
 
 
 4. Click ‘Place Order’
 
-   If the cart is empty → warning message appears
+   If the cart is empty → warning message appears.
 
-   If items exist → confirmation dialog appears
+   If items exist → confirmation dialog appears.
 
-   After confirmation → success message appears and cart resets
+   After confirmation → success message appears and cart resets.
 
 
 5. Check GUI responsiveness
@@ -140,8 +140,8 @@ Implement billing receipt download.
 
 ## Project Status
 
-Fully functional basic prototype
-Can be extended with advanced modules (Billing, Database, User Management)
+Fully functional basic prototype.
+Can be extended with advanced modules. (Billing, Database, User Management)
 
 
 
