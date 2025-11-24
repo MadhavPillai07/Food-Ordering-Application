@@ -10,33 +10,35 @@ To solve this, a simple and user-friendly desktop-based Food Ordering System is 
 
 ## Scope of the Project:
 
-This project focuses on building a basic digital food ordering interface using Python's Tkinter GUI library.
-The scope includes:
+**This project focuses on building a basic digital food ordering interface using Python's Tkinter GUI library.
+The scope includes:**
 
--Displaying a predefined menu with item names and prices.
+- Displaying a predefined menu with item names and prices.
 
--Allowing users to select items and add them to their cart.
+- Allowing users to select items and add them to their cart.
 
--Showing cart contents with quantities and price calculations.
+- Showing cart contents with quantities and price calculations.
 
--Allowing users to place an order with confirmation.
+- Allowing users to place an order with confirmation.
 
--Providing a simple desktop GUI suitable for small food outlets, kiosks, or demo applications.
+- Providing a simple desktop GUI suitable for small food outlets, kiosks, or demo applications.
 
--The project is limited to in-memory operations (no database) and is designed for single-user usage.
+- The project is limited to in-memory operations (no database) and is designed for single-user usage.
 
 
 ## Target Users:
 
-Students looking to build simple ordering apps.
+**The Target user's may include:**
 
-Small cafés and food stalls wanting a lightweight digital interface.
+- Students looking to build simple ordering apps.
 
-Beginners learning GUI development in Python.
+- Small cafés and food stalls wanting a lightweight digital interface.
 
-Developers prototyping food-ordering logic without backend/database.
+- Beginners learning GUI development in Python.
 
-Educational projects for universities or training programs.
+- Developers prototyping food-ordering logic without backend/database.
+
+- Educational projects for universities or training programs.
 
 
 
