@@ -14,7 +14,7 @@ The system simulates the workflow of a real-world food ordering interface with a
 
 ## Features
 
-   Functional Features:
+   **Functional Features:**
 
 1. Menu Display:
    Shows available food items with their prices.
@@ -39,13 +39,13 @@ The system simulates the workflow of a real-world food ordering interface with a
 
 ## Technologies / Tools Used
 
-Python 3.
+- Python 3.
 
-Tkinter (Python GUI Toolkit).
+- Tkinter (Python GUI Toolkit).
 
-Messagebox module for pop-ups and alerts.
+- Messagebox module for pop-ups and alerts.
 
-Dictionary-based data storage for menu and cart.
+- Dictionary-based data storage for menu and cart.
 
 
 
@@ -88,52 +88,52 @@ FoodOrderingApp/
 
 ## Instructions for Testing
 
-   You can test the app through the following steps:
+   **You can test the app through the following steps:**
 
 1. Open the app
-   Verify that menu items appear in the listbox.
+   - Verify that menu items appear in the listbox.
 
 
 2. Select a menu item and click ‘Add to Cart’
 
-   A message box should confirm the addition.
+   - A message box should confirm the addition.
 
-   The cart should update with the selected item and quantity.
+   - The cart should update with the selected item and quantity.
 
 
 3. Add multiple items
 
-   Quantities should increase.
+   - Quantities should increase.
 
-   Total cost should update correctly.
+   - Total cost should update correctly.
 
 
 4. Click ‘Place Order’
 
-   If the cart is empty → warning message appears.
+   - If the cart is empty → warning message appears.
 
-   If items exist → confirmation dialog appears.
+   - If items exist → confirmation dialog appears.
 
-   After confirmation → success message appears and cart resets.
+   - After confirmation → success message appears and cart resets.
 
 
 5. Check GUI responsiveness
-   Ensure all buttons and text areas behave correctly.
+   - Ensure all buttons and text areas behave correctly.
 
 
 
 
 ## Future Enhancements
 
-Add a database to store orders.
+- Add a database to store orders.
 
-Add a login/signup module.
+- Add a login/signup module.
 
-Include images for menu items.
+- Include images for menu items.
 
-Add quantity selector instead of multiple clicks.
+- Add quantity selector instead of multiple clicks.
 
-Implement billing receipt download.
+- Implement billing receipt download.
 
 
 
