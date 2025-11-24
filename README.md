@@ -1,7 +1,7 @@
-**Food Ordering Application**
+# Food Ordering Application
 
 
-**Overview**
+## Overview
 
 The Food Ordering App is a simple graphical desktop application built using Python and Tkinter.
 It allows users to browse a menu, add items to a cart, view total cost, and place an order.
@@ -12,7 +12,7 @@ The system simulates the workflow of a real-world food ordering interface with a
 
 
 
-**Features**
+## Features
 
    Functional Features:
 
@@ -37,7 +37,7 @@ The system simulates the workflow of a real-world food ordering interface with a
 
 
 
-**Technologies / Tools Used**
+## Technologies / Tools Used
 
 Python 3
 
@@ -50,7 +50,7 @@ Dictionary-based data storage for menu and cart
 
 
 
-**Folder Structure (Recommended for GitHub)**
+## Folder Structure
 
 <pre>
 FoodOrderingApp/
@@ -64,7 +64,7 @@ FoodOrderingApp/
 
 
 
-**Steps to Install & Run the Project**
+## Steps to Install & Run the Project
 
 1. Install Python
 
@@ -86,7 +86,7 @@ FoodOrderingApp/
 
 
 
-**Instructions for Testing**
+## Instructions for Testing
 
    You can test the app through the following steps:
 
@@ -123,7 +123,7 @@ FoodOrderingApp/
 
 
 
-**Future Enhancements**
+## Future Enhancements
 
 Add a database to store orders.
 
@@ -138,7 +138,7 @@ Implement billing receipt download.
 
 
 
-**Project Status**
+## Project Status
 
 Fully functional basic prototype
 Can be extended with advanced modules (Billing, Database, User Management)
@@ -146,6 +146,6 @@ Can be extended with advanced modules (Billing, Database, User Management)
 
 
 
-**License**
+## License
 
 This project is free to use for academic purposes.
