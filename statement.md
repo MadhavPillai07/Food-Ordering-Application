@@ -1,14 +1,14 @@
 **Food Ordering Desktop Application (Tkinter-Based)**
 
 
-Problem Statement:
+**Problem Statement:**
 
 In many small cafés, canteens, and food outlets, ordering is still done manually, leading to delays, human errors, and inefficient order tracking. Customers do not always get a quick way to view the menu, add items, review their cart, and place an order digitally.
 
 To solve this, a simple and user-friendly desktop-based Food Ordering System is required, where users can browse items, add them to a cart, view total pricing, and place orders smoothly.
 
 
-Scope of the Project:
+**Scope of the Project:**
 
 This project focuses on building a basic digital food ordering interface using Python's Tkinter GUI library.
 The scope includes:
@@ -26,7 +26,7 @@ The scope includes:
 -The project is limited to in-memory operations (no database) and is designed for single-user usage.
 
 
-Target Users:
+**Target Users:**
 
 Students looking to build simple ordering apps.
 
@@ -40,7 +40,7 @@ Educational projects for universities or training programs.
 
 
 
-High-Level Features:
+**High-Level Features:**
 
  1. Menu Display Module
 
