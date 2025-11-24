@@ -44,39 +44,39 @@ Educational projects for universities or training programs.
 
  1. **Menu Display Module**
 
-   - Shows all food items with their prices.
+    - Shows all food items with their prices.
 
-   - Users can click and select from a list.
+    - Users can click and select from a list.
 
 
  2. **Cart Management Module**
 
-    -Add selected menu items to the cart.
+    - Add selected menu items to the cart.
 
-    -Auto-updates quantity if the same item is added again.
+    - Auto-updates quantity if the same item is added again.
 
-    -Displays cart with item count and price.
+    - Displays cart with item count and price.
 
-    -Calculates total bill dynamically.
+    - Calculates total bill dynamically.
 
 
  3. **Order Processing Module**
 
-    -Order confirmation using message boxes.
+    - Order confirmation using message boxes.
 
-    -Clears the cart after successful order.
+    - Clears the cart after successful order.
 
-    -Handles empty cart scenarios.
+    - Handles empty cart scenarios.
 
 
  4. **GUI Interaction Flow**
 
-    -Tkinter Listbox for menu.
+    - Tkinter Listbox for menu.
 
-    -Text widget for cart visualisation.
+    - Text widget for cart visualisation.
 
-    -Buttons for action handling.
+    - Buttons for action handling.
 
-    -Pop-up dialogue boxes for interactions.
+    - Pop-up dialogue boxes for interactions.
 
 
