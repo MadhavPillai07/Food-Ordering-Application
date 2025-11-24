@@ -42,41 +42,41 @@ Educational projects for universities or training programs.
 
 ## High-Level Features:
 
- **1. Menu Display Module**
+ 1. **Menu Display Module**
 
-    Shows all food items with their prices
+   - Shows all food items with their prices.
 
-    Users can click and select from a list
-
-
- **2. Cart Management Module**
-
-    Add selected menu items to the cart
-
-    Auto-updates quantity if the same item is added again
-
-    Displays cart with item count and price
-
-    Calculates total bill dynamically
+   - Users can click and select from a list.
 
 
- **3. Order Processing Module**
+ 2. **Cart Management Module**
 
-    Order confirmation using message boxes
+    -Add selected menu items to the cart.
 
-    Clears the cart after successful order
+    -Auto-updates quantity if the same item is added again.
 
-    Handles empty cart scenarios
+    -Displays cart with item count and price.
+
+    -Calculates total bill dynamically.
 
 
- **4. GUI Interaction Flow**
+ 3. **Order Processing Module**
 
-    Tkinter Listbox for menu
+    -Order confirmation using message boxes.
 
-    Text widget for cart visualisation
+    -Clears the cart after successful order.
 
-    Buttons for action handling
+    -Handles empty cart scenarios.
 
-    Pop-up dialogue boxes for interactions
+
+ 4. **GUI Interaction Flow**
+
+    -Tkinter Listbox for menu.
+
+    -Text widget for cart visualisation.
+
+    -Buttons for action handling.
+
+    -Pop-up dialogue boxes for interactions.
 
 
