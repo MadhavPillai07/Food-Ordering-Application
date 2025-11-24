@@ -4,11 +4,11 @@ from tkinter import messagebox
 # Sample menu
 menu = {
     "Burger(Price = 5.99)": 5.99,
-    "Pizza(Price = 8.99)": 8.99,
+    "Pizza(Price = 10.99)": 10.99,
     "Salad(Price = 4.49)": 4.49,
     "Fries(Price = 2.99)": 2.99,
     "Soda(Price = 1.99)": 1.99
-}
+       }
 
 # Cart as a dictionary for item counts
 cart = {}
